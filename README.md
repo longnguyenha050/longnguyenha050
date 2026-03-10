@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Long Nguyen
 
-💻 Software Engineer focused on AI-powered applications  
+Software Engineer focused on AI-powered applications  
 
 I enjoy building intelligent systems that combine software engineering and AI.
 
@@ -39,11 +39,6 @@ I enjoy building intelligent systems that combine software engineering and AI.
 - MongoDB
 - ChromaDB
 - FAISS
-
-**Tools**
-- Docker
-- Git
-- Jupyter Notebook
 
 ---
 
