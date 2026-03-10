@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there 👋 I'm Long Nguyen
 
-<!--
-**longnguyenha050/longnguyenha050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer focused on AI-powered applications  
 
-Here are some ideas to get you started:
+I enjoy building intelligent systems that combine software engineering and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science graduate from UIT
+- 🤖 Interested in LLMs, RAG, Computer Vision, and Information Retrieval
+- 🛠 Building AI-powered applications and full-stack systems
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages**
+- Python
+- JavaScript
+- C++
+
+**AI / ML**
+- PyTorch
+- LangChain
+- RAG
+- Computer Vision
+
+**Backend**
+- FastAPI
+- Flask
+- Node.js
+
+**Frontend**
+- React.js
+
+**Databases**
+- MongoDB
+- ChromaDB
+- FAISS
+
+**Tools**
+- Docker
+- Git
+- Jupyter Notebook
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/longnguyenha050
+- Linkedin: https://www.linkedin.com/in/nguy%C3%AAn-h%C3%A0-ng%C5%A9-long-348616356/
+- Facebook: https://www.facebook.com/daika.gowl
